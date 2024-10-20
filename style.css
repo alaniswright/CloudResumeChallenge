@@ -56,6 +56,14 @@ div {
   height: 1000px;
 }
 
+.visitor-counter {
+  float: right;
+  background-color: white;
+  padding: 3px;
+  margin-top: 10px;
+  margin-right: 45px;
+}
+
 p,
 li {
   font-family: 'Cormorant Garamond';
